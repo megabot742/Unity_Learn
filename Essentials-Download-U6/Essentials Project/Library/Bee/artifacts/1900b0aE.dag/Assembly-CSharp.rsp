@@ -452,6 +452,8 @@
 "Assets/_Unity Essentials/Scripts/PlayerController.cs"
 "Assets/_Unity Essentials/Scripts/Provided Scripts/Collectible2D.cs"
 "Assets/_Unity Essentials/Scripts/Provided Scripts/PlayerController2D.cs"
+"Assets/_Unity Essentials/Scripts/SoundBall.cs"
+"Assets/_Unity Essentials/Scripts/SoundWood.cs"
 "Assets/_Unity Essentials/Source Files/InputSystem/StarterAssetsInputs.cs"
 "Assets/_Unity Essentials/Source Files/Scripts/ActivateObjectAfterDelay.cs"
 "Assets/_Unity Essentials/Source Files/Scripts/CheckCodeEntered.cs"

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_Unity Essentials/Scenes/5_TopDown_2D_Scene.unity
+- path: Assets/_Unity Essentials/Scenes/6_Bonus_Custom_Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
